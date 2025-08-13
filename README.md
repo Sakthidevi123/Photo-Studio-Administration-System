@@ -8,6 +8,7 @@ Tech Stack:
   
 - Backend: Spring Boot for REST APIs, business logic, and authentication.
 
-- - Database: MySQL for storing bookings, services, staff, and customer records.
+- Database: MySQL for storing bookings, services, staff, and customer records.
 
 
+<img width="954" height="828" alt="image" src="https://github.com/user-attachments/assets/dd1bc5fa-0dd5-483d-85f7-2359386ec0f9" />
