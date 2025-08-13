@@ -11,4 +11,5 @@ Tech Stack:
 - Database: MySQL for storing bookings, services, staff, and customer records.
 
 
-<img width="954" height="828" alt="image" src="https://github.com/user-attachments/assets/dd1bc5fa-0dd5-483d-85f7-2359386ec0f9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebd0ae6b-2aca-42be-bfaa-96c3b3de66ff" />
+
